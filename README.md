@@ -1,12 +1,10 @@
-# 👋 Hey, I'm Chandrika Nandesariya
+# 👋 Hi, I'm Chandrika Nandesariya
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+AI+Powered+Applications+%F0%9F%9A%80;Exploring+LLMs+%26+Generative+AI+%F0%9F%A7%A0" />
+## 🚀 AI Engineer | Full Stack Developer | IT Student
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00FFFF&style=for-the-badge"/>
+Building intelligent applications with **AI, Web Technologies & Cloud** 🚀
 
 </div>
 
@@ -14,244 +12,183 @@
 
 ## 🚀 About Me
 
-<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 🎓 Information Technology Engineering Student
+💻 Full-Stack Developer passionate about scalable applications
+🤖 Exploring Artificial Intelligence, LLMs & AI Agents
+🌱 Currently learning **Generative AI, RAG Systems, LangGraph & Microservices**
+🔥 Passionate about building **real-world AI-powered solutions**
+🧠 Love solving problems and learning new technologies
+🤝 Interested in collaboration, open-source & innovative projects
 
-🤖 Aspiring **AI Engineer & Full Stack Developer**
-
-💻 Building intelligent applications using **AI, ML and Modern Web Technologies**
-
-🌱 Currently learning:
-
-* Generative AI
-* LLM Applications
-* AI Agents
-* RAG Systems
-* Cloud Technologies
-
-🔥 Passionate about creating scalable and impactful software solutions
-
-🧠 Love solving problems, exploring technologies and building projects
-
-🤝 Open to collaboration on innovative AI & Web projects
-
-📬 **Reach me:** [your-email@gmail.com](mailto:your-email@gmail.com)
-
-<br clear="right"/>
+📬 **How to reach me :** [your.email@example.com](mailto:your.email@example.com)
 
 ---
 
-# 🛠️ Tech Arsenal
+## 🛠️ Tech Stack
 
-## 👩‍💻 Languages
+<p align="center">
 
-<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp"/>
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
 
-</p>
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 
-## 🌐 Frontend
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-<p>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-AI-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/RAG-Generative_AI-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FAISS-Vector_DB-orange?style=for-the-badge"/>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-ML-blueviolet?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-AI-red?style=for-the-badge"/>
 
-</p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-## ⚙️ Backend
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
-<p>
+<img src="https://img.shields.io/badge/IBM%20Cloud-052FAD?style=for-the-badge&logo=ibm&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
-<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express"/>
-
-</p>
-
-## 🤖 AI / ML Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
-</p>
-
-LangChain • LangGraph • Hugging Face • FAISS • ChromaDB • RAG • LLMs
-
-## 🗄️ Database & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,vscode"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-<table>
+### 🤖 TubeMind AI
 
-<tr>
-
-<td width="50%">
-
-## 🤖 TubeMind AI
-
-AI-powered YouTube knowledge assistant.
+> AI-powered YouTube & Document Intelligence Platform using RAG.
 
 ✨ Features:
 
-* RAG Architecture
-* Transcript Intelligence
-* Vector Search
-* LLM Chat Interface
+* Chat with YouTube videos
+* Transcript extraction
+* Vector search
+* LLM-based answers
 
-**Tech**
-Python • LangChain • FAISS • Groq
+**Tech:** Python • LangChain • FAISS • Groq • HuggingFace • Streamlit
 
-</td>
+---
 
-<td width="50%">
+### 📈 SEOBoost AI
 
-## 📈 SEOBoost AI
-
-AI-powered SEO & GEO optimization platform.
+> Intelligent SEO, GEO & AI Optimization Platform.
 
 ✨ Features:
 
-* SEO Audit Automation
+* AI SEO Audit
+* Keyword Analysis
+* Competitor Research
 * AI Recommendations
-* Website Analytics
-* Ranking Insights
+* Automated Optimization
 
-**Tech**
-React • FastAPI • PostgreSQL
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 🎬 Movie Recommendation System
-
-ML based recommendation engine.
-
-**Tech**
-Python • Streamlit • ML
-
-</td>
-
-<td width="50%">
-
-## 🪨 Rock vs Mine Prediction
-
-Machine Learning classification project.
-
-**Tech**
-Python • ML • Streamlit
-
-</td>
-
-</tr>
-
-</table>
+**Tech:** React • FastAPI • PostgreSQL • AI Agents
 
 ---
 
-# 🔥 Current Focus
+### 🎬 Movie Recommendation System
 
-```text
-🤖 Generative AI
-      ↓
-🧠 LLM Applications
-      ↓
-⚡ AI Agents
-      ↓
-🏗️ Scalable Backend Systems
-      ↓
-🚀 Production AI Products
-```
+Content-based recommendation system using Machine Learning.
+
+**Tech:** Python • Streamlit • Machine Learning
 
 ---
 
-# 📊 GitHub Analytics
+### 🪨 Rock vs Mine Prediction
 
-<div align="center">
+ML classification model predicting underwater objects using sonar data.
 
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170"
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</div>
+**Tech:** Python • ML • Streamlit
 
 ---
 
-# 🏆 GitHub Achievements
+## 🔥 Current Focus
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</div>
+* 🤖 Generative AI & AI Agents
+* 🧩 RAG Architecture & Vector Databases
+* 🌐 Full Stack Application Development
+* ⚡ Backend Optimization & API Design
+* 🧠 Data Structures & Problem Solving
+* ☁️ Cloud Deployment
 
 ---
 
-# 🐍 Contribution Snake
+## 🏆 Achievements
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</div>
+🏅 Runner-up in State Level Kho-Kho Competition
+🚀 Built multiple AI & Full Stack Projects
+💡 Completed AI, Cloud & Data Analytics Internships
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
 
-<a href="YOUR_LINKEDIN">
-
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-
+<a href="mailto:your.email@example.com">
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+</p>
 
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+---
 
-</a>
+## 📊 GitHub Stats & Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
 </div>
 
 ---
 
+## 📈 Activity & Contributions
+
 <div align="center">
 
-## ✨ "Code. Create. Innovate. Repeat. 🚀"
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
 
-⭐ Thanks for visiting my profile!
+</div>
+
+---
+
+## 🌐 Other Profiles
+
+* 💼 LinkedIn: YOUR_LINKEDIN
+* 🌎 Portfolio: YOUR_PORTFOLIO
+* 🧑‍💻 GitHub: YOUR_USERNAME
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+**Keep Learning • Keep Building • Keep Growing 🚀**
 
 </div>
