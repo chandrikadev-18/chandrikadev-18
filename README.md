@@ -1,10 +1,12 @@
-# 👋 Hi, I'm Chandrika Nandesariya
+# 👋 Hey, I'm Chandrika Nandesariya
 
 <div align="center">
 
-## 🚀 AI Engineer | Full-Stack Developer | IT Student
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Building+AI+Powered+Applications+%F0%9F%9A%80;Exploring+LLMs+%26+Generative+AI+%F0%9F%A7%A0" />
 
-Building intelligent applications with **Artificial Intelligence, Machine Learning & Modern Web Technologies**
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00FFFF&style=for-the-badge"/>
 
 </div>
 
@@ -12,159 +14,244 @@ Building intelligent applications with **Artificial Intelligence, Machine Learni
 
 ## 🚀 About Me
 
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+
 🎓 Information Technology Engineering Student
-🤖 AI Engineer & Full-Stack Developer
-💻 Passionate about building **AI-powered real-world applications**
-🌱 Currently exploring **AI Agents, LLMs, RAG Systems & Cloud Technologies**
-🔥 Interested in scalable software solutions and intelligent automation
-🧠 Love solving problems and learning emerging technologies
-🤝 Enjoy collaborating on innovative projects
 
-📬 **How to reach me:** [your-email@gmail.com](mailto:your-email@gmail.com)
+🤖 Aspiring **AI Engineer & Full Stack Developer**
 
----
+💻 Building intelligent applications using **AI, ML and Modern Web Technologies**
 
-## 🛠️ Tech Stack
+🌱 Currently learning:
 
-### 👨‍💻 Programming Languages
+* Generative AI
+* LLM Applications
+* AI Agents
+* RAG Systems
+* Cloud Technologies
 
-<p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-</p>
+🔥 Passionate about creating scalable and impactful software solutions
 
-### 🌐 Frontend Development
+🧠 Love solving problems, exploring technologies and building projects
 
-<p>
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+🤝 Open to collaboration on innovative AI & Web projects
 
-### ⚙️ Backend Development
+📬 **Reach me:** [your-email@gmail.com](mailto:your-email@gmail.com)
 
-<p>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-</p>
-
-### 🤖 AI / Machine Learning
-
-<p>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface"/>
-<img src="https://img.shields.io/badge/FAISS-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LLM%20Applications-purple?style=for-the-badge"/>
-</p>
-
-### 🗄️ Database & Tools
-
-<p>
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-</p>
+<br clear="right"/>
 
 ---
 
-# 🔥 Current Focus
+# 🛠️ Tech Arsenal
 
-* 🤖 Building AI Agents & RAG Applications
-* 🧠 Exploring LLMs, LangGraph & Generative AI
-* ⚡ Developing Full-Stack AI Products
-* 🏗️ Learning Scalable Backend Architecture
-* 📚 Improving Data Structures & Problem Solving
+## 👩‍💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,cpp"/>
+
+</p>
+
+## 🌐 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap"/>
+
+</p>
+
+## ⚙️ Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi,django,nodejs,express"/>
+
+</p>
+
+## 🤖 AI / ML Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+
+</p>
+
+LangChain • LangGraph • Hugging Face • FAISS • ChromaDB • RAG • LLMs
+
+## 🗄️ Database & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,git,github,vscode"/>
+
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🤖 TubeMind AI
+<table>
 
-AI-powered YouTube knowledge assistant using RAG architecture.
+<tr>
 
-**Tech:**
-Python • LangChain • FAISS • Groq • Hugging Face • Streamlit
+<td width="50%">
 
-### 📈 SEOBoost AI
+## 🤖 TubeMind AI
 
-AI-based SEO & GEO optimization platform for website ranking analysis.
+AI-powered YouTube knowledge assistant.
 
-**Tech:**
-React • FastAPI • PostgreSQL • AI Agents
+✨ Features:
 
-### 🎬 Movie Recommendation System
+* RAG Architecture
+* Transcript Intelligence
+* Vector Search
+* LLM Chat Interface
 
-Content-based recommendation system using Machine Learning.
+**Tech**
+Python • LangChain • FAISS • Groq
 
-**Tech:**
-Python • Streamlit • Machine Learning
+</td>
 
-### 🪨 Rock vs Mine Prediction
+<td width="50%">
 
-ML model to classify underwater objects using sonar data.
+## 📈 SEOBoost AI
 
-**Tech:**
+AI-powered SEO & GEO optimization platform.
+
+✨ Features:
+
+* SEO Audit Automation
+* AI Recommendations
+* Website Analytics
+* Ranking Insights
+
+**Tech**
+React • FastAPI • PostgreSQL
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 🎬 Movie Recommendation System
+
+ML based recommendation engine.
+
+**Tech**
+Python • Streamlit • ML
+
+</td>
+
+<td width="50%">
+
+## 🪨 Rock vs Mine Prediction
+
+Machine Learning classification project.
+
+**Tech**
 Python • ML • Streamlit
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🔥 Current Focus
+
+```text
+🤖 Generative AI
+      ↓
+🧠 LLM Applications
+      ↓
+⚡ AI Agents
+      ↓
+🏗️ Scalable Backend Systems
+      ↓
+🚀 Production AI Products
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170"
+src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</div>
 
 ---
 
 # 🤝 Let's Connect
 
-<p align="center">
-
-<a href="https://linkedin.com">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# 📊 GitHub Stats & Activity
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+<a href="YOUR_LINKEDIN">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="YOUR_PORTFOLIO">
+
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+
+</a>
 
 </div>
 
 ---
 
-# 📈 Activity & Contributions
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+## ✨ "Code. Create. Innovate. Repeat. 🚀"
 
-</div>
-
----
-
-# 🌐 Other Profiles
-
-* 💼 LinkedIn: YOUR_LINKEDIN_LINK
-* 🌐 Portfolio: YOUR_PORTFOLIO_LINK
-* 🧑‍💻 LeetCode: YOUR_LEETCODE_LINK
-* 📧 Email: YOUR_EMAIL
-
----
-
-<div align="center">
-
-### ⭐ "Building today, innovating tomorrow 🚀"
-
-Thanks for visiting my profile!
+⭐ Thanks for visiting my profile!
 
 </div>
