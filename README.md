@@ -1,7 +1,6 @@
 
-<div align="center"> 
-👋 Hi, I'm Chandrika Nandehariya
-<div>
+#👋 Hi, I'm Chandrika Nandehariya
+
 <div align="center">
 
 🚀 AI Engineer | Full Stack Developer | IT Student
