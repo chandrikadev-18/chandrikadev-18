@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chandrika Nandesariya
+# 👋 Hi, I'm Chandrika Nandehariya
 
 <div align="center">
 
@@ -17,10 +17,9 @@ Building intelligent applications with **AI, Web Technologies & Cloud** 🚀
 🤖 Exploring Artificial Intelligence, LLMs & AI Agents
 🌱 Currently learning **Generative AI, RAG Systems, LangGraph & Microservices**
 🔥 Passionate about building **real-world AI-powered solutions**
-🧠 Love solving problems and learning new technologies
 🤝 Interested in collaboration, open-source & innovative projects
 
-📬 **How to reach me :** [your.email@example.com](mailto:your.email@example.com)
+📬 **How to reach me :** [your.email@example.com](mailto:chandrikanandesariya@gmail.com)
 
 ---
 
@@ -87,36 +86,11 @@ Building intelligent applications with **AI, Web Technologies & Cloud** 🚀
 **Tech:** Python • LangChain • FAISS • Groq • HuggingFace • Streamlit
 
 ---
-
-### 📈 SEOBoost AI
-
-> Intelligent SEO, GEO & AI Optimization Platform.
-
-✨ Features:
-
-* AI SEO Audit
-* Keyword Analysis
-* Competitor Research
-* AI Recommendations
-* Automated Optimization
-
-**Tech:** React • FastAPI • PostgreSQL • AI Agents
-
----
-
 ### 🎬 Movie Recommendation System
 
 Content-based recommendation system using Machine Learning.
 
-**Tech:** Python • Streamlit • Machine Learning
-
----
-
-### 🪨 Rock vs Mine Prediction
-
-ML classification model predicting underwater objects using sonar data.
-
-**Tech:** Python • ML • Streamlit
+**Tech:** Python • Streamlit • Machine Learning • NLP
 
 ---
 
@@ -136,22 +110,6 @@ ML classification model predicting underwater objects using sonar data.
 🏅 Runner-up in State Level Kho-Kho Competition
 🚀 Built multiple AI & Full Stack Projects
 💡 Completed AI, Cloud & Data Analytics Internships
-
----
-
-## 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your.email@example.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
 
 ---
 
@@ -179,9 +137,9 @@ ML classification model predicting underwater objects using sonar data.
 
 ## 🌐 Other Profiles
 
-* 💼 LinkedIn: YOUR_LINKEDIN
+* 💼 LinkedIn: https://www.linkedin.com/in/chandrika-nandehariya-5414bb329/
 * 🌎 Portfolio: YOUR_PORTFOLIO
-* 🧑‍💻 GitHub: YOUR_USERNAME
+* 🧑‍💻 GitHub: https://github.com/chandrikadev-18
 
 ---
 
