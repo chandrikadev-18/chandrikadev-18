@@ -1,8 +1,10 @@
-# 👋 Hi, I'm Chandrika Nandehariya
 
+<div align="center"> 
+👋 Hi, I'm Chandrika Nandehariya
+<div>
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Generative+AI+Enthusiast+%F0%9F%A7%A0;Building+Intelligent+Applications+%F0%9F%9A%80;Always+Learning+New+Technologies+✨" />
+🚀 AI Engineer | Full Stack Developer | IT Student
 
 </div>
 
