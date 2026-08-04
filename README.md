@@ -2,9 +2,7 @@
 
 <div align="center">
 
-## 🚀 AI Engineer | Full Stack Developer | IT Student
-
-Building intelligent applications with **AI, Web Technologies & Cloud** 🚀
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=AI+Engineer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Generative+AI+Enthusiast+%F0%9F%A7%A0;Building+Intelligent+Applications+%F0%9F%9A%80;Always+Learning+New+Technologies+✨" />
 
 </div>
 
@@ -19,7 +17,7 @@ Building intelligent applications with **AI, Web Technologies & Cloud** 🚀
 🔥 Passionate about building **real-world AI-powered solutions**
 🤝 Interested in collaboration, open-source & innovative projects
 
-📬 **How to reach me :** [your.email@example.com](mailto:chandrikanandesariya@gmail.com)
+📬 **How to reach me :** [chandrikanandesariya018@gmail.com](mailto:chandrikanandesariya@gmail.com)
 
 ---
 
