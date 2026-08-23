@@ -2,14 +2,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=AI+Engineer;Full+Stack+Developer;Python+Developer;RAG+%26+LLM+Developer" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Namaste 👋, I'm Chandrika Nandehariya</h1>
+<h1 align="center">Hello👋, I'm Chandrika Nandehariya</h1>
 
 <p align="center">
-  <b>AI Engineer | Full Stack & Python Developer</b>
+  <b>AI Engineer | Backend Developer</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/chandrikadev-018">
+  <a href="https://github.com/chandrikadev-18">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/chandrika-nandehariya-5414bb329/">
@@ -56,12 +56,6 @@
 > **AI-powered codebase intelligence and dependency graph generator tool designed for modern developers.**
 
 * **Core Concept:** Scans complex codebases to map out structural dependencies, relationships, and code logic.
-* **Key Features:**
-  * Automated repository scanning & deep project analysis.
-  * Dependency relationship parsing (Files, Classes, Functions, Methods).
-  * Interactive code relationship mapping and `CALLS` relationship tracking.
-  * AI-assisted code explanations and developer workflow optimization.
-  * CLI-based tool integration for seamless developer experiences.
 * **Tech Stack:** Python • Graph-Based Intelligence • Code Parsing • CLI Architecture
 
 <p>
@@ -76,12 +70,6 @@
 > **An advanced RAG-powered knowledge assistant built to query, extract, and synthesize insights from YouTube videos.**
 
 * **Core Concept:** Transforms raw video content into an intelligent conversational knowledge base.
-* **Key Features:**
-  * Automated YouTube transcript extraction and text pre-processing.
-  * Intelligent document chunking and vector embedding generation.
-  * High-performance vector storage & hybrid search retrieval.
-  * Retrieval Augmented Generation (RAG) pipeline powered by advanced LLMs.
-  * Real-time query execution with LLM-backed answers and structured summaries.
 * **Tech Stack:** Python • LangChain • LangGraph • LangSmith • FAISS / ChromaDB • Hugging Face Transformers • Groq • YouTube Transcript API • Streamlit
 
 <p>
@@ -121,14 +109,14 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandrikadev-018&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrikadev-018&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chandrikadev-18&show_icons=true&theme=tokyonight&hide_border=true&disable_animations=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandrikadev-18&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandrikadev-018&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=chandrikadev-18&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 ---
@@ -143,7 +131,7 @@
   <a href="https://www.linkedin.com/in/chandrika-nandehariya-5414bb329/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/chandrikadev-018">
+  <a href="https://github.com/chandrikadev-18">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="mailto:chandrikanandesariya018@gmail.com">
